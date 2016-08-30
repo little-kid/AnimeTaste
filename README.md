@@ -3,6 +3,8 @@
 
 ![](https://img.shields.io/hexpm/dt/plug.svg)
 
+![](https://img.shields.io/hexpm/dt/plug.svg)
+
 [![Build Status](https://travis-ci.org/daimajia/AnimeTaste.png?branch=master)](https://travis-ci.org/daimajia/AnimeTaste)
 
 [English](./README-en.md)
